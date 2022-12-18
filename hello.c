@@ -1,4 +1,4 @@
-// A Program that say hello to the world 
+// A Program that says hello to the world 
 
 #include <stdio.h> 
 
